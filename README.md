@@ -1,12 +1,12 @@
 ## Welcome to Bear & Bull Raffle!
-
+환영합니다!!!
 You can use the [editor on GitHub](https://github.com/octopusdeepsea/octopusdeepsea.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 속을 준비들 되셨나요?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is dangerous cheating site that would make you extremely angry, lol!!!
 
 ```markdown
 Syntax highlighted code block
