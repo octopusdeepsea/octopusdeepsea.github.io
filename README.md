@@ -1,4 +1,4 @@
-## Welcome to Bear & Bull Rapple!
+## Welcome to Bear & Bull Raffle!
 
 You can use the [editor on GitHub](https://github.com/octopusdeepsea/octopusdeepsea.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
